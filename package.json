@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios-auth-refresh": "^3.3.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+
+}
